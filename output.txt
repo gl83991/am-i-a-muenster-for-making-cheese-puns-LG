@@ -1,0 +1,6 @@
+Cheese Analysis Results
+------------------------
+Pasteurized milk cheeses: 0
+Raw milk cheeses: 0
+Organic cheeses with moisture > 41%: 0
+Most common milk type: Industrial
